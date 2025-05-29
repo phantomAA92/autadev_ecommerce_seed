@@ -17,3 +17,6 @@ This project consists of two sections:
 - Frontend Page : Django MVT
 - Admin Page : Django Admin
 - Rest API : Django Rest Framework
+
+## WebSite URL
+autadev.mojedane.net/
